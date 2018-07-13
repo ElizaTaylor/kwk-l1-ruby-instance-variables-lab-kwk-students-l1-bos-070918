@@ -12,6 +12,5 @@ end
 lassie = Dog.new 
 lassie.name = "lassie"
 
-lassie.name #=> "lassie" 
 
 puts lassie.name 
